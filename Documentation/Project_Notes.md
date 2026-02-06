@@ -41,7 +41,7 @@ These measures are designed to support high-level decision-making.
 
 ---
 
-##  Business Use Case
+#  Business Use Case
 This dashboard can be used by:
 - Sales Managers
 - Business Analysts
@@ -55,7 +55,7 @@ To:
 
 ---
 
-##  Future Enhancements
+Future Enhancements
 - Drill-through pages for region-level analysis
 - Forecasting using time-series models
 - Customer segmentation analysis
