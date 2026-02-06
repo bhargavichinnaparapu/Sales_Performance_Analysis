@@ -2,26 +2,26 @@
 
 
 
-# 📊 Sales Performance Analysis – Power BI Dashboard
+#  Sales Performance Analysis – Power BI Dashboard
 
-## 🧾 Project Overview
+#  Project Overview
 This project presents an **Executive Sales Performance Dashboard** built using **Power BI** to analyze sales, profit, returns, and profitability trends across regions, categories, and time periods.
 
 The dashboard is designed to support **data-driven business decision-making** by delivering clear KPIs, trend analysis, and actionable insights through an intuitive visual layout.
 
 ---
 
-## 🎥 Dashboard Demo
+#  Dashboard Demo
 <p align="center">
   <img src="Demo_video/Sales_performance_Dashboard_demo.gif" width="600"/>
 </p>
 
-🔗 **Full Demo Video:**  
+ **Full Demo Video:**  
 [Watch on Google Drive](https://drive.google.com/file/d/14pWeQvWjfH1g69JI8s9d5EaEqC2lVB_f/view)
 
 ---
 
-## 🎯 Objectives
+#  Objectives
 - Analyze **Total Sales, Profit, Profit Margin, and Return Rate**
 - Compare **Sales vs Profit across Regions**
 - Track **monthly sales and profit trends**
@@ -30,7 +30,7 @@ The dashboard is designed to support **data-driven business decision-making** by
 
 ---
 
-## 🛠 Tools & Technologies Used
+#  Tools & Technologies Used
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)**
 - **Microsoft Excel**
@@ -38,7 +38,7 @@ The dashboard is designed to support **data-driven business decision-making** by
 
 ---
 
-## 📌 Key KPIs
+#  Key KPIs
 - **Total Sales:** 2.30M  
 - **Total Profit:** 0.30M  
 - **Profit Margin:** 12.5%  
@@ -46,7 +46,7 @@ The dashboard is designed to support **data-driven business decision-making** by
 
 ---
 
-## 📈 Dashboard Highlights
+#  Dashboard Highlights
 - **Sales & Profit by Month** (Bar + Line Chart)
 - **Sales vs Profit by Region**
 - **Total Returns by Region**
@@ -57,7 +57,7 @@ The dashboard is designed to support **data-driven business decision-making** by
 
 ---
 
-## 🧠 Key Insights
+#  Key Insights
 - West region is the **strongest contributor** to both Sales and Profit  
 - Profit margins show a **gradual decline in later months**
 - Technology category has the **lowest return rate**
@@ -65,7 +65,7 @@ The dashboard is designed to support **data-driven business decision-making** by
 
 ---
 
-## 📊 Business Impact
+#  Business Impact
 - Helps leadership quickly identify high-performing and underperforming regions
 - Enables data-driven decisions on profitability and returns
 - Improves visibility into monthly sales and margin trends
@@ -73,26 +73,26 @@ The dashboard is designed to support **data-driven business decision-making** by
 
 ---
 
-## 🖼️ Dashboard Snapshot
+#  Dashboard Snapshot
 ![Sales Performance Dashboard](Screenshots/dashboard_overview.png)
 
 ![Sales Performance Filters Dashboard](Screenshots/filters_view.png)
 ---
 
-## 🎬 Dashboard Videos
+#  Dashboard Videos
 
-> 📌 *Note: GitHub does not support inline video playback in README files.*  
+>  *Note: GitHub does not support inline video playback in README files.*  
 > Please click the links below to download and view the videos.
 
-### 🔹 Power BI Dashboard Walkthrough
-[▶ Download Dashboard Demo](Demo_Video/Sales_Performance_Dashboard_Demo.mp4)
+#  Power BI Dashboard Walkthrough
+[ Download Dashboard Demo](Demo_Video/Sales_Performance_Dashboard_Demo.mp4)
 
-### 🔹 Power BI Report & DAX Walkthrough
-[▶ Download Power BI Walkthrough](Demo_Video/PowerBI_Walkthrough.mp4)
+#  Power BI Report & DAX Walkthrough
+[ Download Power BI Walkthrough](Demo_Video/PowerBI_Walkthrough.mp4)
 
 ---
 
-## 📊 Dataset Information
+#  Dataset Information
 - **Dataset:** Sample Superstore  
 - **Source:** Publicly available dataset  
 - **Includes:**
@@ -104,7 +104,7 @@ The dashboard is designed to support **data-driven business decision-making** by
 
 ---
 
-## 🚀 How to Use This Project
+#  How to Use This Project
 1. Clone or download the repository
 2. Open the `.pbix` file using **Power BI Desktop**
 3. Refresh the data if required
@@ -112,7 +112,7 @@ The dashboard is designed to support **data-driven business decision-making** by
 
 ---
 
-## 💡 Learnings & Skills Demonstrated
+#  Learnings & Skills Demonstrated
 - Power BI data modeling
 - DAX calculations (KPIs, ratios, return rate)
 - Dashboard design and layout best practices
@@ -121,7 +121,7 @@ The dashboard is designed to support **data-driven business decision-making** by
 
 ---
 
-## 📂 Project Structure
+#  Project Structure
 
 
 Sales_Performance_Analysis/
@@ -142,8 +142,8 @@ Sales_Performance_Analysis/
 
 ---
 
-## 📬 Contact
+#  Contact
 **Bhargavi Chinnaparapu**  
 
-🔗 LinkedIn: https://www.linkedin.com/in/bhargavichinnaparapu  
-💻 GitHub: https://github.com/bhargavichinnaparapu
+ LinkedIn: https://www.linkedin.com/in/bhargavichinnaparapu  
+ GitHub: https://github.com/bhargavichinnaparapu
