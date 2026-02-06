@@ -15,6 +15,9 @@ The dashboard is designed to support **data-driven business decision-making** by
   <img src="Demo_video/Sales_performance_Dashboard_demo.gif" width="500"/>
 </p>
 
+---
+
+
 🔗 Full demo video:https://drive.google.com/file/d/14pWeQvWjfH1g69JI8s9d5EaEqC2lVB_f/view?usp=sharing
 ---
 
