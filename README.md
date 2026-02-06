@@ -9,12 +9,9 @@ The dashboard is designed to support **business decision-making** by providing c
 
 ## 🎥 Dashboard Demo (Preview)
 
-[![Dashboard Demo](Screenshots/dashboard_overview.png)](Demo_Video/Sales_Performance_Dashboard_Demo.mp4)
-
 ![Dashboard Preview](Demo_Video/Sales_performance_Dashboard_demo.gif)
 
-> ▶️ Click the preview above to watch the full Power BI dashboard demo
-
+> 
 
 ---
 
@@ -68,13 +65,10 @@ The dashboard is designed to support **business decision-making** by providing c
 
 ---
 
-## 🎥 Demo Videos
+##  Dashboard Video
 
 > 📌 Note: GitHub does not support inline video playback.  
 > Please download the video files to view.
-
-### 🔹 Power BI Dashboard Demo
-[▶ Download Dashboard Demo](Demo_Video/Sales_Performance_Dashboard_Demo.mp4)
 
 ### 🔹 Power BI Report & DAX Walkthrough
 [▶ Download Power BI Walkthrough](Demo_Video/PowerBI_Walkthrough.mp4)
