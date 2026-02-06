@@ -11,16 +11,13 @@ The dashboard is designed to support **data-driven business decision-making** by
 
 ---
 
-## 🎥 Dashboard Demo 
-
-<h2 align="center">🎥 Dashboard Demo </h2>
-
+## 🎥 Dashboard Demo
 <p align="center">
-  <img src="Demo_video/Sales_performance_Dashboard_demo.gif" width="500"/>
+  <img src="Demo_video/Sales_performance_Dashboard_demo.gif" width="600"/>
 </p>
 
-
-🔗 Full demo video:https://drive.google.com/file/d/14pWeQvWjfH1g69JI8s9d5EaEqC2lVB_f/view?usp=sharing
+🔗 **Full Demo Video:**  
+[Watch on Google Drive](https://drive.google.com/file/d/14pWeQvWjfH1g69JI8s9d5EaEqC2lVB_f/view)
 
 ---
 
@@ -65,6 +62,14 @@ The dashboard is designed to support **data-driven business decision-making** by
 - Profit margins show a **gradual decline in later months**
 - Technology category has the **lowest return rate**
 - South region shows **lower profitability relative to sales volume**
+
+---
+
+## 📊 Business Impact
+- Helps leadership quickly identify high-performing and underperforming regions
+- Enables data-driven decisions on profitability and returns
+- Improves visibility into monthly sales and margin trends
+- Reduces manual reporting effort through automated KPIs
 
 ---
 
@@ -117,24 +122,22 @@ The dashboard is designed to support **data-driven business decision-making** by
 ---
 
 ## 📂 Project Structure
+
+
 Sales_Performance_Analysis/
-│
 ├── PowerBI/
-│ └── Sales_Performance_Dashboard.pbix
-│
+│   └── Sales_Performance_Dashboard.pbix
 ├── Excel_Work/
-│ └── Sample_Superstore.xlsx
-│
+│   └── Sample_Superstore.xlsx
 ├── Screenshots/
-│ └── dashboard_overview.png
-│
+│   ├── github_thumbnail.png
+│   ├── dashboard_overview.png
+│   └── filters_view.png
 ├── Demo_Video/
-│ ├── Sales_Performance_Dashboard_Demo.mp4
-│ └── PowerBI_Walkthrough.mp4
-│
+│   ├── Sales_Performance_Dashboard_Demo.mp4
+│   └── PowerBI_Walkthrough.mp4
 ├── Documentation/
-│ └── Project_Notes.pdf
-│
+│   └── Project_Notes.md
 └── README.md
 
 ---
