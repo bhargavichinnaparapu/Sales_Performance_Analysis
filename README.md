@@ -15,9 +15,7 @@ The dashboard is designed to support **data-driven business decision-making** by
   <img src="Demo_video/Sales_performance_Dashboard_demo.gif" width="500"/>
 </p>
 
-🔗 Full demo video: https://drive.google.com/file/d/1ETVip1-dYv9jugcBjoA6uMB7DPOeSmG5/view?usp=sharing
-
-
+🔗 Full demo video:https://drive.google.com/file/d/14pWeQvWjfH1g69JI8s9d5EaEqC2lVB_f/view?usp=sharing
 ---
 
 ## 🎯 Objectives
@@ -67,6 +65,7 @@ The dashboard is designed to support **data-driven business decision-making** by
 ## 🖼️ Dashboard Snapshot
 ![Sales Performance Dashboard](Screenshots/dashboard_overview.png)
 
+![Sales Performance Filters Dashboard](Screenshots/filters_view.png)
 ---
 
 ## 🎬 Dashboard Videos
