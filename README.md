@@ -1,3 +1,7 @@
+![Sales Performance Analysis](Screenshots/github_thumbnail.png)
+
+
+
 # 📊 Sales Performance Analysis – Power BI Dashboard
 
 ## 🧾 Project Overview
