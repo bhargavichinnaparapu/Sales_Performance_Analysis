@@ -7,6 +7,17 @@ The dashboard is designed to support **business decision-making** by providing c
 
 ---
 
+## 🎥 Dashboard Demo (Preview)
+
+[![Dashboard Demo](Screenshots/dashboard_overview.png)](Demo_Video/Sales_Performance_Dashboard_Demo.mp4)
+
+![Dashboard Preview](Demo_Video/Sales_performance_Dashboard_demo.gif)
+
+> ▶️ Click the preview above to watch the full Power BI dashboard demo
+
+
+---
+
 ## 🎯 Objectives
 - Analyze **Total Sales, Profit, Profit Margin, and Return Rate**
 - Compare **Sales vs Profit across Regions**
@@ -103,28 +114,45 @@ The dashboard is designed to support **business decision-making** by providing c
 ## 📂 Project Structure
 Sales_Performance_Analysis/
 │
+
+---
+
 ├── PowerBI/
 │   └── Sales_Performance_Dashboard.pbix
 │
+
+---
+
 ├── Excel_Work/
 │   └── Sample_Superstore.xlsx
 │
+
+---
+
 ├── Screenshots/
 │   └── dashboard_overview.png
 │
+
+--
+
 ├── Demo_Video/
 │   ├── Sales_Performance_Dashboard_Demo.mp4
 │   └── PowerBI_Walkthrough.mp4
 │
+---
+
 ├── Documentation/
 │   └── Project_Notes.pdf
 │
+
+---
+
 └── README.md
 
 
 
 ## 📬 Contact
 **Bhargavi Chinnaparapu**  
-📧 LinkedIn: https://www.linkedin.com/in/bhargavichinnaparapu
 
+📧 LinkedIn: https://www.linkedin.com/in/bhargavichinnaparapu
 📂 GitHub: https://github.com/bhargavichinnaparapu
