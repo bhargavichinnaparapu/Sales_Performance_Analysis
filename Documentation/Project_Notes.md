@@ -1,6 +1,6 @@
-# 📊 Sales Performance Analysis – Project Notes
+#  Sales Performance Analysis – Project Notes
 
-## 🔍 Project Purpose
+##  Project Purpose
 The purpose of this project is to analyze sales performance, profitability, and returns using Power BI and present insights through an executive-level dashboard.
 
 This dashboard helps stakeholders quickly understand:
@@ -11,7 +11,7 @@ This dashboard helps stakeholders quickly understand:
 
 ---
 
-## 🧱 Data Model Overview
+##  Data Model Overview
 The data model follows a **star schema** approach:
 - Fact tables store transactional data (Sales, Returns)
 - Dimension tables include Date, Region, Category, and Product
@@ -20,7 +20,7 @@ Relationships are created to ensure accurate filtering and aggregation.
 
 ---
 
-## 📐 KPIs & Measures
+##  KPIs & Measures
 Key DAX measures used in this project include:
 - Total Sales
 - Total Profit
@@ -32,7 +32,7 @@ These measures are designed to support high-level decision-making.
 
 ---
 
-## 🎨 Dashboard Design Decisions
+##  Dashboard Design Decisions
 - KPI cards placed at the top for instant insights
 - Combination charts used for Sales vs Profit comparison
 - Consistent color theme aligned with Power BI branding
@@ -41,7 +41,7 @@ These measures are designed to support high-level decision-making.
 
 ---
 
-## 🧠 Business Use Case
+##  Business Use Case
 This dashboard can be used by:
 - Sales Managers
 - Business Analysts
@@ -55,7 +55,7 @@ To:
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 - Drill-through pages for region-level analysis
 - Forecasting using time-series models
 - Customer segmentation analysis
