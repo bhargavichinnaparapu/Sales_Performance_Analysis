@@ -1,152 +1,154 @@
-# 📊 Sales Performance Analysis – Power BI Dashboard
+📊 Sales Performance Analysis – Power BI Dashboard
+🧾 Project Overview
 
-## 🧾 Project Overview
-This project presents an **Executive Sales Performance Dashboard** built using **Power BI** to analyze sales, profit, returns, and profitability trends across regions, categories, and time periods.
+This project presents an Executive Sales Performance Dashboard built using Power BI to analyze sales, profit, returns, and profitability trends across regions, categories, and time periods.
 
-The dashboard is designed to support **business decision-making** by providing clear KPIs, trend analysis, and actionable insights in a visually intuitive format.
+The dashboard is designed to support data-driven business decision-making by delivering clear KPIs, trend analysis, and actionable insights through an intuitive visual layout.
 
----
+🎥 Dashboard Demo (Auto-Play Preview)
 
-## 🎥 Dashboard Demo (Preview)
+▶️ Short auto-play preview of the Power BI dashboard. Full walkthrough video available below.
 
-![Dashboard Preview](Demo_Video/Sales_performance_Dashboard_demo.gif)
+🎯 Objectives
 
-> 
+Analyze Total Sales, Profit, Profit Margin, and Return Rate
 
----
+Compare Sales vs Profit across Regions
 
-## 🎯 Objectives
-- Analyze **Total Sales, Profit, Profit Margin, and Return Rate**
-- Compare **Sales vs Profit across Regions**
-- Track **monthly sales and profit trends**
-- Identify regions and categories with **high returns**
-- Provide **executive-level insights** using KPIs and visuals
+Track monthly sales and profit trends
 
----
+Identify regions and categories with high returns
 
-## 🛠 Tools & Technologies Used
-- **Power BI Desktop**
-- **DAX (Data Analysis Expressions)**
-- **Microsoft Excel**
-- **Git & GitHub**
+Provide executive-level insights using KPIs and interactive visuals
 
----
+🛠 Tools & Technologies Used
 
-## 📌 Key KPIs
-- **Total Sales:** 2.30M  
-- **Total Profit:** 0.30M  
-- **Profit Margin:** 12.5%  
-- **Return Rate:** 3%
+Power BI Desktop
 
----
+DAX (Data Analysis Expressions)
 
-## 📈 Dashboard Highlights
-- **Sales & Profit by Month** (Bar + Line Chart)
-- **Sales vs Profit by Region**
-- **Total Returns by Region**
-- **Return Rate by Category**
-- **Profit Margin % by Region**
-- **Interactive Slicers** (Year & Month)
-- **Key Insights Panel** for executive summary
+Microsoft Excel
 
----
+Git & GitHub
 
-## 🧠 Key Insights
-- West region is the **strongest contributor** in both Sales and Profit  
-- Profit margins show a **gradual decline in later months**
-- Technology category has the **lowest return rate**
-- South region shows **lower profitability compared to sales volume**
+📌 Key KPIs
 
----
+Total Sales: 2.30M
+
+Total Profit: 0.30M
+
+Profit Margin: 12.5%
+
+Return Rate: 3%
+
+📈 Dashboard Highlights
+
+Sales & Profit by Month (Bar + Line Chart)
+
+Sales vs Profit by Region
+
+Total Returns by Region
+
+Return Rate by Category
+
+Profit Margin % by Region
+
+Interactive Slicers (Year & Month)
+
+Key Insights Panel for executive summary
+
+🧠 Key Insights
+
+West region is the strongest contributor to both Sales and Profit
+
+Profit margins show a gradual decline in later months
+
+Technology category has the lowest return rate
+
+South region shows lower profitability relative to sales volume
+
+🖼️ Dashboard Snapshot
+
+🎬 Dashboard Videos
+
+📌 Note: GitHub does not support inline video playback in README files.
+Please click the links below to download and view the videos.
+
+🔹 Power BI Dashboard Walkthrough
+
+▶ Download Dashboard Demo
+
+🔹 Power BI Report & DAX Walkthrough
+
+▶ Download Power BI Walkthrough
+
+📊 Dataset Information
+
+Dataset: Sample Superstore
+
+Source: Publicly available dataset
+
+Includes:
+
+Orders
+
+Sales
+
+Profit
+
+Returns
+
+Regions & Categories
+
+🚀 How to Use This Project
+
+Clone or download the repository
+
+Open the .pbix file using Power BI Desktop
+
+Refresh the data if required
+
+Use slicers and visuals to explore insights
+
+💡 Learnings & Skills Demonstrated
+
+Power BI data modeling
+
+DAX calculations (KPIs, ratios, return rate)
+
+Dashboard design and layout best practices
+
+Business storytelling using data
+
+Version control with Git & GitHub
+
+📂 Project Structure
 
 
-## 🖼️ Dashboard Preview
-![Sales Performance Dashboard](Screenshots/dashboard_overview.png)
-
----
-
-##  Dashboard Video
-
-> 📌 Note: GitHub does not support inline video playback.  
-> Please download the video files to view.
-
-### 🔹 Power BI Report & DAX Walkthrough
-[▶ Download Power BI Walkthrough](Demo_Video/PowerBI_Walkthrough.mp4)
-
-
----
-
-## 📊 Dataset Information
-- Dataset: **Sample Superstore**
-- Source: Publicly available sales dataset
-- Contains information on:
-  - Orders
-  - Sales
-  - Profit
-  - Returns
-  - Regions & Categories
-
----
-
-## 🚀 How to Use This Project
-1. Download the repository
-2. Open the `.pbix` file using **Power BI Desktop**
-3. Refresh data if required
-4. Use slicers to interact with the dashboard
-
----
-
-## 💡 Learnings & Skills Demonstrated
-- Power BI data modeling
-- DAX calculations (KPIs, ratios, return rate)
-- Dashboard design & layout best practices
-- Business storytelling using data
-- Version control using Git & GitHub
-
----
-
-## 📂 Project Structure
 Sales_Performance_Analysis/
 │
-
----
-
 ├── PowerBI/
 │   └── Sales_Performance_Dashboard.pbix
 │
-
----
-
 ├── Excel_Work/
 │   └── Sample_Superstore.xlsx
 │
-
----
-
 ├── Screenshots/
 │   └── dashboard_overview.png
 │
-
---
-
 ├── Demo_Video/
 │   ├── Sales_Performance_Dashboard_Demo.mp4
 │   └── PowerBI_Walkthrough.mp4
 │
----
-
 ├── Documentation/
 │   └── Project_Notes.pdf
 │
-
----
-
 └── README.md
 
+📬 Contact
 
+Bhargavi Chinnaparapu
 
-## 📬 Contact
-**Bhargavi Chinnaparapu**  
+🔗 LinkedIn: https://www.linkedin.com/in/bhargavichinnaparapu
 
-📧 LinkedIn: https://www.linkedin.com/in/bhargavichinnaparapu
-📂 GitHub: https://github.com/bhargavichinnaparapu
+💻 GitHub: https://github.com/bhargavichinnaparapu
