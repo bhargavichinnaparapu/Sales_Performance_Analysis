@@ -87,7 +87,7 @@ The dashboard is designed to support **data-driven business decision-making** by
 > Please click the links below to download and view the videos.
 
 #  Power BI Dashboard Walkthrough
-[ Download Dashboard Demo](Demo_Video/Sales_Performance_Dashboard_Demo.mp4)
+[ Download Dashboard Demo](Demo_Video/Sales_Performance_Dashboard_demo.mp4)
 
 #  Power BI Report & DAX Walkthrough
 [ Download Power BI Walkthrough](Demo_Video/PowerBI_Walkthrough.mp4)
@@ -125,22 +125,28 @@ The dashboard is designed to support **data-driven business decision-making** by
 
 #  Project Structure
 
-
-Sales_Performance_Analysis/
-├── PowerBI/
-│   └── Sales_Performance_Dashboard.pbix
+SALES_PERFORMANCE_ANALYSIS/
+│
+│
+├── Demo_video/
+│   ├── PowerBI_Walkthrough.mp4
+│   └── Sales_performance_Dashboard_demo.gif
+│
+├── Documentation/
+│   └── Project_Notes.md
+│
 ├── Excel_Work/
-│   └── Sample_Superstore.xlsx
+│   └── Sample-Superstore.xlsx
+│
+├── PowerBI/
+│   └── (Power BI .pbix file)
+│
 ├── Screenshots/
 │   ├── github_thumbnail.png
 │   ├── dashboard_overview.png
-│   └── filters_view.png
-├── Demo_Video/
-│   ├── Sales_Performance_Dashboard_Demo.mp4
-│   └── PowerBI_Walkthrough.mp4
-├── Documentation/
-│   └── Project_Notes.md
-└── README.md
+│   ├── filters_view1.png
+│   └── filters_view2.png
+|__ README.md
 
 ---
 
