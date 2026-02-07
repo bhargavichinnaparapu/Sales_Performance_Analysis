@@ -17,7 +17,8 @@ The dashboard is designed to support **data-driven business decision-making** by
 </p>
 
  **Full Demo Video:**  
-[Watch on Google Drive](https://drive.google.com/file/d/14pWeQvWjfH1g69JI8s9d5EaEqC2lVB_f/view)
+[Watch on Google Drive](https://drive.google.com/file/d/14pWeQvWjfH1g69JI8s9d5EaEqC2lVB_f/view?usp=sharing)
+
 
 ---
 
@@ -76,7 +77,8 @@ The dashboard is designed to support **data-driven business decision-making** by
 #  Dashboard Snapshot
 ![Sales Performance Dashboard](Screenshots/dashboard_overview.png)
 
-![Sales Performance Filters Dashboard](Screenshots/filters_view.png)
+![Sales Performance Filters Dashboard](Screenshots/filters_view1.png)
+![Sales Performance Filters Dashboard](Screenshots/filters_view2.png)
 ---
 
 #  Dashboard Videos
